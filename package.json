@@ -1,0 +1,30 @@
+{
+  "name": "excel",
+  "version": "1.0.0",
+  "description": "JavaScript Excel App",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dentkachuk/excel-js.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel"
+  ],
+  "author": "Denys Tkachuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dentkachuk/excel-js/issues"
+  },
+  "homepage": "https://github.com/dentkachuk/excel-js#readme",
+  "devDependencies": {
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  }
+}
