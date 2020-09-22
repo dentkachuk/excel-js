@@ -1,2 +1,1 @@
-import './module'
-import './scss/base.scss'
+import './scss/base.scss';
