@@ -23,7 +23,6 @@
     "url": "https://github.com/dentkachuk/excel-js/issues"
   },
   "homepage": "https://github.com/dentkachuk/excel-js#readme",
-  "browserslist": "> 0.25%, not dead",
   "devDependencies": {
     "@babel/core": "^7.8.4",
     "@babel/preset-env": "^7.8.4",
@@ -45,6 +44,7 @@
     "webpack-dev-server": "^3.10.3"
   },
   "dependencies": {
-    "@babel/polyfill": "^7.8.3"
+    "@babel/polyfill": "^7.8.3",
+    "normalize.css": "^8.0.1"
   }
 }
